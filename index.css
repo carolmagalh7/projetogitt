@@ -1,3 +1,13 @@
 header{
     text-align: center;
+    font: blue;
+}
+h2{
+    text-align: center;
+    font: aquamarine;
+
+}
+p{
+    font: aquamarine;
+    background-color: beige;
 }
